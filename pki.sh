@@ -227,7 +227,7 @@ export COUNTRY=FR
 export PROVINCE=Seine-Maritime
 export CITY=Rouen
 export ORG=M2SSI
-export EMAIL=ndembelekou@gmail.com
+export EMAIL=youssouf.habycamara@gmail.com
 export OU=security
 export CN=CA
 EOF
